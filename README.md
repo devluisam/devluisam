@@ -41,16 +41,18 @@ família ou de um negócio local — e não de um exercício de curso.
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**TOSHIBA**](https://github.com/devluisam/toshiba-life-os) | Personal Life OS local-first em uso diário: finanças, revendas, faculdade, hábitos, treino e mais em 19 módulos sobre um banco único, operado por conversa | Next.js 16 · TypeScript · Prisma 7 · SQLite · Vitest · PWA |
 | [**MEDATLAS 3D**](https://github.com/devluisam/medatlas-3d) | Plataforma de estudo de anatomia com visualizador 3D interativo, quiz gerado por IA e flashcards com repetição espaçada (SM-2) | Next.js 15 · Three.js · R3F · Prisma · PostgreSQL · OpenAI |
 | [**Dental Report AI**](https://github.com/devluisam/dental-report-ai) | Gera laudos odontológicos a partir de documentos: OCR no navegador, extração estruturada com IA e exportação em PDF | Next.js 15 · TypeScript · Claude API · Tesseract.js |
 | [**Kinga Finance AI**](https://github.com/devluisam/kinga-finance-ai) | Análise financeira para pequeno comércio: classificação automática de custos, resultado por loja, projeção do mês e alertas | FastAPI · SQLAlchemy · Streamlit · Plotly |
 | [**Pulso Verde**](https://github.com/devluisam/pulso-verde) | Mapa interativo de queimadas e desmatamento na Amazônia, consumindo dados da NASA FIRMS e do TerraBrasilis | React · Leaflet · Recharts |
 | [**NutriTrack Pro**](https://github.com/devluisam/nutritrack-pro) | Dashboard de nutrição: macros, diário alimentar, cálculo de TDEE e gráficos SVG feitos à mão | React · Vite · Tailwind CSS |
 
-Também mantenho dois sistemas privados de uso diário — **TOSHIBA** (sistema pessoal de
-organização operado por conversa, com 18 módulos integrados) e o **Centro de Comando
-DPE-AM** (plataforma de preparação para concurso com algoritmo de priorização de estudo).
-Os dois estão descritos em detalhe no portfólio.
+O repositório do TOSHIBA acima é a cópia pública: o banco fica fora do versionamento e
+`npm run db:seed` popula dados fictícios para quem quiser rodar. Também mantenho o
+**Centro de Comando DPE-AM** (preparação para concurso, com algoritmo de priorização de
+estudo) em repositório privado — ele guarda dados de desempenho pessoais. Os dois estão
+descritos em detalhe no portfólio.
 
 ---
 
