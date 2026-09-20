@@ -46,7 +46,7 @@ família ou de um negócio local — e não de um exercício de curso.
 | [**Dental Report AI**](https://github.com/devluisam/dental-report-ai) | Gera laudos odontológicos a partir de documentos: OCR no navegador, extração estruturada com IA e exportação em PDF | Next.js 15 · TypeScript · Claude API · Tesseract.js |
 | [**Kinga Finance AI**](https://github.com/devluisam/kinga-finance-ai) | Análise financeira para pequeno comércio: classificação automática de custos, resultado por loja, projeção do mês e alertas | FastAPI · SQLAlchemy · Streamlit · Plotly |
 | [**Pulso Verde**](https://github.com/devluisam/pulso-verde) | Mapa interativo de queimadas e desmatamento na Amazônia, consumindo dados da NASA FIRMS e do TerraBrasilis | React · Leaflet · Recharts |
-| [**NutriTrack Pro**](https://github.com/devluisam/nutritrack-pro) | Dashboard de nutrição: macros, diário alimentar, cálculo de TDEE e gráficos SVG feitos à mão | React · Vite · Tailwind CSS |
+| [**BODY OS**](https://github.com/devluisam/body-os) | Sistema de composição corporal e performance para atleta: registros offline com sincronização, 22 tabelas por domínio e relatório semanal | React 19 · TypeScript · Cloudflare Workers · D1 · Drizzle |
 
 O repositório do TOSHIBA acima é a cópia pública: o banco fica fora do versionamento e
 `npm run db:seed` popula dados fictícios para quem quiser rodar. Também mantenho o
