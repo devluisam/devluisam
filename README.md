@@ -66,4 +66,4 @@ descritos em detalhe no portfólio.
 
 ### Contato
 
-[Portfólio](https://devluisam.github.io) · [LinkedIn](https://www.linkedin.com/in/luis-henrique-94a6183b3) · [WhatsApp](https://wa.me/5592981295937)
+[Portfólio](https://devluisam.github.io) · [E-mail](mailto:devluisam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/luis-henrique-94a6183b3) · [WhatsApp](https://wa.me/5592981295937)
